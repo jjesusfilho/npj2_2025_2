@@ -1,0 +1,358 @@
+---
+title: "Sistema Interamericano de Direitos Humanos"
+format: revealjs
+editor: visual
+---
+
+## Parte I — Introdução geral aos direitos humanos
+
+Antes de compreender o **Sistema Interamericano de Direitos Humanos**, é fundamental situá-lo dentro do **Sistema Internacional de Proteção dos Direitos Humanos**, que surgiu após a Segunda Guerra Mundial.
+
+Esse contexto explica o **caráter universal, indivisível e interdependente** dos direitos humanos, fundamentos que inspiraram também a criação dos sistemas regionais — europeu, africano e interamericano.
+
+## O Sistema Internacional de Direitos Humanos
+
+O Sistema Internacional de Direitos Humanos é o **conjunto de normas, instituições e mecanismos** criados pela **Organização das Nações Unidas (ONU)** para proteger e promover a dignidade humana em escala global. Ele se estrutura sobre três pilares principais:
+
+1.  **Normas universais** – tratados, convenções e declarações;\
+2.  **Órgãos de monitoramento** – comitês e conselhos especializados;\
+3.  **Procedimentos de controle** – relatórios, comunicações individuais e revisões periódicas.
+
+## Origem histórica
+
+O sistema nasce em resposta às atrocidades cometidas durante a **Segunda Guerra Mundial**.
+
+A **Carta das Nações Unidas (1945)** já menciona a “promoção e o respeito aos direitos humanos e às liberdades fundamentais”.\
+Três anos depois, surge a **Declaração Universal dos Direitos Humanos (1948)** — o marco fundador do direito internacional contemporâneo.
+
+## A Declaração Universal de 1948
+
+Aprovada pela Assembleia Geral da ONU em **10 de dezembro de 1948**, a Declaração Universal proclama que “todos os seres humanos nascem livres e iguais em dignidade e direitos”.
+
+Ela não é um tratado, mas inspirou todo o **sistema jurídico internacional posterior**.\
+Seus valores — **dignidade, igualdade e liberdade** — tornaram-se referências obrigatórias para Estados e organismos regionais.
+
+## Tratados fundamentais da ONU
+
+Com o tempo, foram adotados tratados que transformaram os princípios da Declaração Universal em **obrigações jurídicas concretas**. Entre os principais:
+
+-   **Pacto Internacional sobre Direitos Civis e Políticos (1966)**;\
+-   **Pacto Internacional sobre Direitos Econômicos, Sociais e Culturais (1966)**;\
+-   **Convenção contra a Tortura (1984)**;\
+-   **Convenção sobre a Eliminação da Discriminação contra a Mulher (1979)**;\
+-   **Convenção sobre os Direitos da Criança (1989)**.
+
+📘 *O Brasil é parte de todos esses instrumentos.*
+
+## Princípios estruturantes dos direitos humanos
+
+Os sistemas global e regionais compartilham os mesmos **princípios fundamentais**:
+
+-   **Universalidade:** pertencem a todas as pessoas, sem exceção;\
+-   **Indivisibilidade:** direitos civis, políticos, econômicos e sociais são igualmente essenciais;\
+-   **Interdependência:** a violação de um direito afeta os demais;\
+-   **Progresso e não retrocesso:** os direitos devem avançar continuamente.
+
+Esses princípios orientam também o Sistema Interamericano.
+
+## Relação entre sistemas global e regionais
+
+O **Sistema Internacional da ONU** fornece o **marco normativo universal**, enquanto os **sistemas regionais** — europeu, africano e interamericano — **aprofundam a proteção** dentro de contextos culturais e políticos específicos.
+
+Todos buscam: - criar **mecanismos de denúncia** acessíveis;\
+- **monitorar o cumprimento** pelos Estados;\
+- e **reparar as vítimas** de violações.
+
+## O Sistema Interamericano de Direitos Humanos (SIDH)
+
+O **Sistema Interamericano de Direitos Humanos** é o ramo regional das Américas dentro do sistema global.
+
+Ele integra o arcabouço da **Organização dos Estados Americanos (OEA)** e busca garantir a **efetividade dos direitos humanos** reconhecidos internacionalmente.
+
+Seus pilares são: - **Tratados e convenções interamericanas**;\
+- **Órgãos autônomos** (Comissão e Corte Interamericanas);\
+- **Mecanismos de petição individual e supervisão**.
+
+## Origem do SIDH
+
+O sistema começou a se formar em **1948**, com a **Carta da OEA** e a **Declaração Americana dos Direitos e Deveres do Homem**, aprovadas em Bogotá.
+
+Em 1969, a **Convenção Americana sobre Direitos Humanos (Pacto de San José da Costa Rica)** deu ao sistema **força jurídica vinculante** e criou seus dois órgãos principais: 1. **Comissão Interamericana de Direitos Humanos (CIDH)**;\
+2. **Corte Interamericana de Direitos Humanos (Corte IDH)**.
+
+## A OEA e o ideal americano de solidariedade
+
+A **Organização dos Estados Americanos (OEA)** nasceu com o propósito de promover a **paz, a justiça e a solidariedade entre as nações das Américas**.
+
+A **Carta da OEA (1948)** afirma que o verdadeiro sentido da solidariedade é consolidar “um regime de liberdade individual e justiça social fundado no respeito aos direitos essenciais do homem”.
+
+Desde então, a OEA tornou-se um pilar institucional da **democracia e dos direitos humanos** no hemisfério ocidental.
+
+## Reformas da Carta da OEA
+
+A Carta foi reformada diversas vezes para refletir o avanço da proteção dos direitos humanos:
+
+-   **Protocolo de Buenos Aires (1967):** ampliou o papel da OEA na promoção dos direitos sociais.\
+-   **Protocolo de Cartagena das Índias (1985):** destacou a democracia como requisito do desenvolvimento.\
+-   **Protocolo de Washington (1992):** consolidou o compromisso com o desenvolvimento integral e sustentável.
+
+Essas reformas reforçam o vínculo entre **democracia, desenvolvimento e dignidade humana**.
+
+## Instrumentos
+
+| Instrumento | Natureza | Efeito jurídico | Exemplo |
+|------------------|-----------------|----------------------|-----------------|
+| **Declaração** | Ato político ou ético | Não vinculante; expressa princípios | Declaração Americana (1948) |
+| **Convenção** | Tratado multilateral temático | Vincula os Estados que ratificam | Convenção Americana (1969) |
+| **Acordo** | Instrumento técnico ou bilateral | Obrigações específicas e pontuais | Acordos de cooperação jurídica |
+
+## Instrumentos
+| Instrumento | Natureza | Efeito jurídico | Exemplo |
+|------------------|-----------------|----------------------|-----------------|
+| **Tratado** | Termo genérico para pactos internacionais | Vinculante; abrange convenções e protocolos | Carta da OEA (1948) |
+| **Protocolo** | Texto complementar ou modificador | Amplia ou detalha outro tratado | Protocolo de San Salvador (1988) |
+
+## A Declaração Americana de 1948
+
+A **Declaração Americana dos Direitos e Deveres do Homem**, aprovada em Bogotá, foi o **primeiro instrumento internacional geral de direitos humanos**.
+
+Proclama que os direitos humanos derivam **da dignidade inerente à pessoa humana**, e não do Estado.
+
+Inspirou diretamente a **Declaração Universal da ONU**, tornando-se seu antecedente histórico imediato.
+
+📘 *O Brasil, como membro fundador da OEA, aderiu à Declaração em 1948.*
+
+## O significado da Declaração Americana
+
+Mesmo sem força de tratado, a Declaração foi reconhecida pela **Comissão e pela Corte Interamericanas** como **fonte de obrigações jurídicas**.
+
+Ela representa o **embrião do sistema interamericano**, reafirmando os valores da **liberdade, igualdade e solidariedade continental**.
+
+## O nascimento do Sistema Interamericano
+
+A Carta da OEA e a Declaração Americana formaram o **núcleo inicial** do Sistema Interamericano.
+
+O sistema opera com base em três eixos: 1. **Reconhecimento universal da dignidade humana**;\
+2. **Criação de órgãos regionais de supervisão**;\
+3. **Responsabilidade internacional dos Estados** em caso de violação.
+
+## Direitos humanos e democracia nas Américas
+
+O SIDH expressa o entendimento de que **não há democracia sem direitos humanos**.
+
+A liberdade individual e a justiça social são vistas como **condições essenciais para a paz continental**.
+
+O sistema interamericano busca transformar valores éticos em **compromissos jurídicos concretos**, com mecanismos de responsabilização internacional.
+
+## Conclusão
+
+O Sistema Interamericano nasce do ideal de **solidariedade americana**, aliado ao reconhecimento da **dignidade humana como valor universal**.
+
+A OEA deixa de ser apenas uma organização política e se torna **uma instituição jurídica de defesa dos direitos humanos**, parte essencial da arquitetura global de proteção à pessoa humana.
+
+## Sistemas de proteção de direitos humanos
+
+| Aspecto | Sistema Global (ONU) 🌍 | Sistema Interamericano (OEA) 🌎 |
+|----------------|------------------------|--------------------------------|
+| **Âmbito** | Universal | Regional – Américas |
+| **Base jurídica** | Carta da ONU (1945), Declaração Universal (1948) | Carta da OEA (1948), Convenção Americana (1969) |
+| **Órgãos principais** | Conselho de Direitos Humanos e Comitês da ONU | Comissão e Corte Interamericanas |
+
+## Sistemas de proteção de direitos humanos
+
+| Aspecto | Sistema Global (ONU) 🌍 | Sistema Interamericano (OEA) 🌎 |
+|----------------|------------------------|--------------------------------|
+| **Instrumentos centrais** | Pactos e convenções universais da ONU | Convenções e protocolos interamericanos |
+| **Caráter das decisões** | Recomendações (não vinculantes em geral) | Sentenças obrigatórias da Corte IDH |
+| **Foco predominante** | Universalidade e cooperação internacional | Responsabilização dos Estados e reparação das vítimas |
+
+📊 *Ambos compartilham os princípios de dignidade, universalidade e indivisibilidade, mas o sistema interamericano oferece mecanismos jurisdicionais diretos às vítimas.*
+
+## Parte II — Instrumentos regionais de proteção dos direitos humanos
+
+O Sistema Interamericano de Direitos Humanos (SIDH) foi construído sobre um conjunto de **instrumentos normativos** — declarações, convenções e protocolos — que definem **os direitos protegidos, as obrigações dos Estados e as funções dos órgãos de supervisão**.
+
+Esses instrumentos foram elaborados ao longo de várias décadas, acompanhando a evolução do direito internacional dos direitos humanos e refletindo os desafios políticos e sociais das Américas.
+
+---
+
+## Estrutura geral dos instrumentos
+
+Os documentos que formam o SIDH podem ser agrupados em três eixos:
+
+1. **Declarações fundacionais**, como a de 1948;  
+2. **Convenções de proteção específica**, como o Pacto de San José;  
+3. **Protocolos e tratados temáticos**, que ampliam o alcance material do sistema.
+
+Nos slides seguintes, veremos os principais instrumentos e a data em que o **Brasil** aderiu ou os **ratificou**.
+
+---
+
+## Declaração Americana dos Direitos e Deveres do Homem (1948)
+
+Adotada em **2 de maio de 1948**, em Bogotá, foi o **primeiro instrumento internacional geral de direitos humanos**.
+
+Afirma que os **direitos essenciais do homem** derivam de sua própria natureza, e não de sua cidadania.  
+Inspirou diretamente a **Declaração Universal da ONU**, aprovada oito meses depois.
+
+📘 *O Brasil, como membro fundador da OEA, adotou a Declaração em 1948 (não há processo formal de ratificação).*
+
+---
+
+## Valor jurídico e significado da Declaração
+
+Embora seja um ato político e não um tratado, a **Comissão** e a **Corte Interamericana** a consideram **fonte de obrigações jurídicas** para todos os Estados-membros da OEA.
+
+A Declaração representa o **ponto de partida** do Sistema Interamericano e expressa o ideal de **dignidade e universalidade dos direitos humanos**.
+
+---
+
+## Convenção Americana sobre Direitos Humanos  
+*(Pacto de San José da Costa Rica, 1969)*
+
+Aprovada em **22 de novembro de 1969** e em vigor desde **1978**, o Pacto de San José consolidou o SIDH como um **sistema jurídico vinculante**.
+
+Em sua primeira parte, define direitos civis e políticos, como:
+- vida, liberdade e integridade pessoal;  
+- devido processo;  
+- liberdade de expressão e de religião;  
+- proteção judicial.
+
+---
+
+## Instituições criadas pela Convenção
+
+Na segunda parte, a Convenção cria dois órgãos centrais:
+
+1. **Comissão Interamericana de Direitos Humanos (CIDH)**;  
+2. **Corte Interamericana de Direitos Humanos (Corte IDH)**.
+
+Eles são responsáveis por **verificar o cumprimento das obrigações** assumidas pelos Estados-partes.
+
+📘 *Brasil: assinou em 1969 e ratificou em **25 de setembro de 1992**, reconhecendo a jurisdição da Corte IDH.*
+
+---
+
+## Convenção Interamericana para Prevenir e Punir a Tortura (1985)
+
+Adotada em **9 de dezembro de 1985**, esta convenção define **tortura** e obriga os Estados a **punir severamente** qualquer ato ou tolerância desse crime.
+
+Assegura que **nenhum motivo político ou militar** pode justificar tortura e obriga à **cooperação internacional** na investigação e extradição.
+
+📘 *Brasil: ratificou em **20 de julho de 1989** (Decreto nº 98.386/1989).*
+
+---
+
+## Protocolo de San Salvador (1988)
+
+O **Protocolo Adicional à Convenção Americana** trata dos **direitos econômicos, sociais e culturais** — como trabalho, educação, saúde e previdência.
+
+Determina que os Estados devem **avançar progressivamente** na efetivação desses direitos, usando o máximo de seus recursos disponíveis.
+
+📘 *Brasil: ratificou em **21 de agosto de 1996** (Decreto nº 3.321/1999).*
+
+---
+
+## Protocolo sobre a Abolição da Pena de Morte (1990)
+
+Aprovado em **8 de junho de 1990**, busca **eliminar definitivamente a pena capital** no continente.
+
+Os Estados comprometem-se a **não aplicar a pena de morte** a nenhuma pessoa sob sua jurisdição, reforçando o caráter absoluto do **direito à vida**.
+
+📘 *Brasil: ratificou em **13 de agosto de 1996** (Decreto nº 2.754/1998).*
+
+---
+
+## Convenção de Belém do Pará (1994)  
+*(Violência contra a mulher)*
+
+Primeiro tratado internacional dedicado exclusivamente à **violência de gênero**.  
+Aprovado em **9 de junho de 1994**, entrou em vigor em **5 de março de 1995**.
+
+Reconhece como violência qualquer ato, público ou privado, que cause **morte, dano ou sofrimento físico, sexual ou psicológico** à mulher.
+
+📘 *Brasil: ratificou em **27 de novembro de 1995** (Decreto nº 1.973/1996).*
+
+---
+
+## Obrigações da Convenção de Belém do Pará
+
+Os Estados partes se comprometem a:
+
+- **condenar todas as formas de violência contra a mulher**;  
+- **investigar e punir os responsáveis**;  
+- **adotar políticas públicas de prevenção e educação**.
+
+O tratado consagrou o **direito das mulheres a uma vida livre de violência e discriminação**, e serviu de base para políticas internas, como a **Lei Maria da Penha (2006)**.
+
+---
+
+## Convenção sobre o Desaparecimento Forçado de Pessoas (1994)
+
+Primeiro tratado internacional sobre o tema, aprovado em **9 de junho de 1994**.  
+Define o desaparecimento forçado como crime permanente e de **violação múltipla de direitos humanos**.
+
+Obriga os Estados a **tipificar o crime**, **investigar os autores** e **cooperar** em extradições e reparações.
+
+📘 *Brasil: ratificou em **29 de novembro de 2010** (Decreto nº 7.479/2011).*
+
+---
+
+## Convenção sobre a Eliminação da Discriminação contra Pessoas com Deficiência (1999)
+
+Adotada em **7 de junho de 1999**, esta convenção promove a **igualdade de oportunidades** e a **integração plena** das pessoas com deficiência.
+
+Prevê a criação de uma **Comissão de acompanhamento** e reafirma o dever estatal de remover barreiras arquitetônicas, culturais e comunicacionais.
+
+📘 *Brasil: ratificou em **20 de agosto de 2001** (Decreto nº 3.956/2001).*
+
+---
+
+## Carta Democrática Interamericana (2001)
+
+Aprovada em **11 de setembro de 2001**, reforça a **democracia representativa** como condição para a efetividade dos direitos humanos.
+
+Afirma que democracia, Estado de Direito e direitos humanos são **indivisíveis e interdependentes**.
+
+📘 *Brasil: aderiu à Carta no ato de sua aprovação pela OEA (2001).*
+
+---
+
+## Declaração de Princípios sobre Liberdade de Expressão (2000)
+
+Adotada pela CIDH em **outubro de 2000**, estabelece diretrizes sobre o direito à **liberdade de expressão** e **acesso à informação**.
+
+Os princípios centrais são:
+- livre circulação de ideias e informações;  
+- proibição de censura prévia;  
+- pluralidade dos meios de comunicação.
+
+📘 *Por ser declaração, não há ratificação formal.*
+
+---
+
+## Princípios e Boas Práticas para Pessoas Privadas de Liberdade (2008)
+
+Aprovados em **março de 2008**, consolidam padrões mínimos de tratamento de pessoas sob custódia.
+
+Incluem:
+- **tratamento humano e digno**;  
+- **igualdade e não discriminação**;  
+- **acesso à saúde, educação e justiça**.
+
+📘 *Instrumento declaratório, não sujeito a ratificação formal.*
+
+---
+
+## Conclusão da Parte II
+
+Os instrumentos regionais de direitos humanos formam um **corpo normativo progressivo**, que evolui de declarações políticas a **tratados vinculantes**.
+
+Ao ratificar esses documentos, o Brasil incorporou compromissos jurídicos de:
+- **respeitar e garantir os direitos humanos**,  
+- **prevenir violações**, e  
+- **reparar vítimas**.
+
+O conjunto desses tratados mostra o amadurecimento do continente americano no reconhecimento da **dignidade humana como fundamento da vida democrática**.
+
+

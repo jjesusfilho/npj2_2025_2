@@ -1,0 +1,8 @@
+{
+  "resumo": "Documento da OMC (DS375/1) de 2 de junho de 2008, intitulado 'European Communities and its member States – Tariff Treatment of Certain Information Technology Products', que relata o pedido de consultas apresentados pelos Estados Unidos contra a Comunidade Europeia e seus Estados-Membros. O US alega que a EC e os Estados-Membros violam obrigações do GATT 1994 e do ITA ao manter tratamento tarifário não livre de tarifas para certos produtos de TI — incluindo set-top boxes com função de comunicação, monitores de tela plana, unidades de entrada/saída e fac-símiles — por meio de alterações no Combined Nomenclature, regulamentos da EC e notas explicativas. O objetivo é obter consultas para resolver a disputa; as medidas citadas, individualmente ou em conjunto, podem contrariar artigos II:1(a) e II:1(b) do GATT 1994 e as obrigações de tarifa sob os horários de concessões, bem como as práticas de publicação de notas explicativas. O caso visa, portanto, questões de tratamento tarifário de bens de TI sob ITA e GATT 1994.",
+  "tipo": "Pedido de consultas",
+  "disputa": "sim",
+  "países": ["United States", "European Communities and its member States"],
+  "peticionario": "United States",
+  "temas": "tarifas; acesso a mercado; bens industriais"
+}

@@ -1,0 +1,21 @@
+ ■                                  1% |  ETA:  4m
+ ■■                                 5% |  ETA:  2m
+ ■■■■                              11% |  ETA:  1m
+ ■■■■■■                            17% |  ETA:  1m
+ ■■■■■■■■■                         26% |  ETA: 41s
+ ■■■■■■■■■■■                       34% |  ETA: 33s
+ ■■■■■■■■■■■■■■                    42% |  ETA: 28s
+ ■■■■■■■■■■■■■■■                   48% |  ETA: 25s
+ ■■■■■■■■■■■■■■■■■                 55% |  ETA: 22s
+ ■■■■■■■■■■■■■■■■■■                57% |  ETA: 22s
+ ■■■■■■■■■■■■■■■■■■■■              63% |  ETA: 19s
+ ■■■■■■■■■■■■■■■■■■■■■■            70% |  ETA: 15s
+ ■■■■■■■■■■■■■■■■■■■■■■■           74% |  ETA: 14s
+ ■■■■■■■■■■■■■■■■■■■■■■■■■         79% |  ETA: 11s
+ ■■■■■■■■■■■■■■■■■■■■■■■■■■■       86% |  ETA:  7s
+ ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■     93% |  ETA:  4s
+Joining with `by = join_by(resposta)`
+Error: OpenAI API probably has been changed. If you see this, please rise an issue at: https://github.com/irudnyts/openai/issues
+Retrying in 0.2 seconds.
+Error: OpenAI API probably has been changed. If you see this, please rise an issue at: https://github.com/irudnyts/openai/issues
+Retrying in 0.2 seconds.

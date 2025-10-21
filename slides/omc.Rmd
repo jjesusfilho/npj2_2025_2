@@ -1,0 +1,387 @@
+---
+title: "Organização Mundial do Comércio"
+output: slidy_presentation
+date: "2025-09-30"
+---
+
+
+## Introdução
+
+- A Organização Mundial do Comércio (OMC) possui um dos sistemas de resolução de disputas mais avançados do direito internacional.  
+- A primeira parte desta apresentação aborda:
+  - Os antecedentes históricos (GATT 1947).  
+  - As rodadas de negociação.  
+  - A transição para a OMC (1995).  
+  - O fundamento normativo principal: o **Entendimento sobre Solução de Controvérsias (DSU)**.  
+
+## Antecedentes: O GATT (1947–1994)
+
+- Criado em 1947, o Acordo Geral sobre Tarifas e Comércio (GATT) foi o embrião do sistema multilateral de comércio.  
+- Previa mecanismos de consultas e painéis ad hoc para disputas.  
+- Problemas principais:
+  - Ausência de prazos definidos.  
+  - Necessidade de consenso para adoção de relatórios (facilitava bloqueios).  
+  - Falta de previsibilidade e cumprimento limitado.  
+
+## As rodadas de negociação
+
+- **O que eram:** ciclos de negociações multilaterais para reduzir tarifas e ampliar regras do comércio.  
+- **Nomes e locais:** geralmente recebiam o nome da cidade-sede.  
+- **Principais rodadas:**  
+  - Genebra (1947) – criação do GATT.  
+  - Dillon (1960–62) – tarifas após a formação da CEE.  
+  - Kennedy (1964–67) – acordo antidumping.  
+  - Tóquio (1973–79) – barreiras não tarifárias e subsídios.  
+  - Uruguai (1986–94) – mais ampla; criou a OMC e o DSU.  
+- **Importância:** cada rodada aprofundou a liberalização e consolidou o sistema multilateral.  
+
+## A Rodada Uruguai e a criação da OMC
+
+- A Rodada Uruguai (1986–1994) foi decisiva para reformar o sistema.  
+- Resultados:
+  - Criação da OMC em 1995 (Acordo de Marrakech).  
+  - Inclusão de novos temas: serviços, propriedade intelectual, agricultura.  
+  - Estabelecimento de um sistema mais robusto de solução de controvérsias.  
+
+## O DSU (Dispute Settlement Understanding)
+
+- Documento anexo ao Acordo de Marrakech: **Entendimento sobre Regras e Procedimentos para Solução de Controvérsias (DSU)**.  
+- Principais inovações:
+  - Prazos definidos para cada etapa.  
+  - Painéis e possibilidade de recurso ao Órgão de Apelação.  
+  - Adoção automática dos relatórios (salvo consenso contrário).  
+  - Proibição de sanções unilaterais fora do sistema.  
+
+
+## Sistema de disputas
+
+- O sistema de solução de controvérsias da OMC é apoiado por uma estrutura institucional robusta.  
+- Essa estrutura garante:
+  - Supervisão política.  
+  - Apoio técnico e jurídico.  
+  - Instâncias decisórias em primeira e segunda instância.  
+
+## Conselho Geral e o Órgão de Solução de Controvérsias (DSB)
+
+- O Conselho Geral da OMC se reúne em diferentes “chapéus” (formas de atuação).  
+- Quando atua como **Dispute Settlement Body (DSB)**, ele:
+  - Autoriza o estabelecimento de painéis.  
+  - Adota relatórios de painéis e do Órgão de Apelação.  
+  - Supervisiona a implementação das decisões.  
+  - Autoriza retaliações em caso de descumprimento.  
+
+## Os painéis (Panels)
+
+- São órgãos **ad hoc** compostos geralmente por três especialistas.  
+- Funções:
+  - Examinar a consistência da medida contestada com os acordos da OMC.  
+  - Analisar fatos, provas e argumentos jurídicos.  
+  - Elaborar relatório com conclusões e recomendações.  
+- Prazos: em teoria, cerca de 6 a 9 meses para emissão do relatório.  
+
+## O Órgão de Apelação (Appellate Body)
+
+- Instância permanente de segunda instância, com até 7 membros (mandato de 4 anos).  
+- Julga apenas **questões de direito**, não reavalia fatos.  
+- Deve emitir relatório em até 90 dias.  
+- Crise recente:
+  - Desde 2019, está paralisado por falta de membros (bloqueio das nomeações pelos EUA).  
+  - Impacto: disputas podem “ficar no limbo” quando há recurso.  
+
+## Árbitros e procedimentos especiais
+
+- Em algumas situações, são designados **árbitros independentes**, por exemplo:  
+  - Definir prazos razoáveis de implementação.  
+  - Estimar o valor de retaliações (suspensão de concessões).  
+  - Resolver disputas de conformidade em fases posteriores.  
+
+## O papel do Secretariado da OMC
+
+- Presta apoio administrativo, técnico e jurídico.  
+- Mantém a base de jurisprudência da OMC.  
+- Facilita comunicações entre partes e painéis.  
+- Elabora o *Handbook on WTO Dispute Settlement System*.  
+
+## O ACWL (Advisory Centre on WTO Law)
+
+- Centro consultivo independente, criado em 2001.  
+- Oferece assistência jurídica a países em desenvolvimento e menos desenvolvidos.  
+- Fornece treinamento e capacitação para litígios na OMC.  
+- Ajuda a reduzir a desigualdade de recursos no sistema.  
+
+## Síntese da Estrutura Institucional
+
+- O sistema combina:  
+  - **Supervisão política** (DSB).  
+  - **Exame técnico** (painéis).  
+  - **Revisão jurídica** (Órgão de Apelação).  
+  - **Execução e conformidade** (árbitros, retaliações).  
+  - **Apoio administrativo e jurídico** (Secretariado e ACWL).  
+- Esse desenho garante legitimidade e funcionalidade, apesar dos desafios recentes.  
+
+## Procedimento de resolução de disputas
+
+- O Entendimento sobre Solução de Controvérsias (DSU) define um procedimento detalhado.  
+- O processo é **sequencial**, com prazos predefinidos (embora nem sempre cumpridos).  
+- O objetivo central é:  
+  - Resolver disputas de forma rápida.  
+  - Garantir previsibilidade.  
+  - Evitar medidas unilaterais.  
+
+## Etapa 1: Consultas
+
+- Primeira fase obrigatória do processo.  
+- O país reclamante solicita consultas ao país acusado.  
+- Objetivo: resolver a disputa de forma diplomática.  
+- Prazo: até 60 dias.  
+- Se não houver acordo, pode-se pedir a formação de painel.  
+
+## Etapa 2: Estabelecimento do painel
+
+- O reclamante solicita formalmente ao DSB a criação de um painel.  
+- O painel é composto (geralmente 3 membros).  
+- Define-se o “termo de referência”: quais medidas e artigos serão analisados.  
+- O painel inicia os trabalhos: fase escrita e audiências.  
+
+## Etapa 3: Relatório do painel
+
+- O painel analisa fatos e argumentos jurídicos.  
+- Elabora um **relatório preliminar** para comentários das partes.  
+- Em seguida, emite o **relatório final**.  
+- Conclusões:  
+  - Se há ou não violação dos acordos da OMC.  
+  - Recomendações de adequação da medida contestada.  
+
+## Etapa 4: Apelação
+
+- Parte insatisfeita pode recorrer ao **Órgão de Apelação**.  
+- Limite: apenas questões de direito, não fatos.  
+- Prazo: 60 a 90 dias.  
+- O relatório do Órgão de Apelação substitui o do painel.  
+
+## Etapa 5: Adoção do relatório
+
+- O relatório final (do painel ou do Órgão de Apelação) é submetido ao DSB.  
+- Regra: **adoção automática**, salvo consenso negativo (o que é extremamente improvável).  
+- Garante previsibilidade e evita bloqueios políticos.  
+
+## Etapa 6: Implementação
+
+- O país condenado deve adequar sua medida à decisão.  
+- Se a alteração imediata não for possível, há prazo razoável de implementação.  
+- O cumprimento é supervisionado pelo DSB.  
+
+## Etapa 7: Conformidade e retaliação
+
+- Se o país não cumpre a decisão:  
+  - O reclamante pode solicitar arbitragem sobre a conformidade.  
+  - Em caso de descumprimento persistente, pode pedir **autorização para retaliação**.  
+- A retaliação deve ser proporcional e autorizada pelo DSB.  
+
+## Prazos teóricos (nem sempre cumpridos)
+
+- Consultas: até 60 dias.  
+- Painel: 6 a 9 meses para relatório final.  
+- Apelação: até 90 dias.  
+- Implementação: prazo razoável (negociado ou definido por árbitro).  
+- Tempo total ideal: cerca de 15 meses.  
+- Na prática: muitos casos se estendem por anos.  
+
+## Síntese do Procedimento
+
+- O sistema combina **diplomacia** (consultas), **juridicidade** (painel/apelação) e **execução supervisionada** (implementação e retaliação).  
+- Ponto forte: adoção automática dos relatórios.  
+- Limitação: atrasos frequentes e crise do Órgão de Apelação.  
+
+
+
+
+
+
+## Princípios, características e garantias
+
+- O sistema de solução de controvérsias da OMC não é apenas um procedimento técnico.  
+- Ele se apoia em **princípios estruturantes** que garantem legitimidade, previsibilidade e equilíbrio entre os membros.  
+
+## Princípio da legalidade e do devido processo
+
+- Todas as etapas seguem normas previamente acordadas no DSU.  
+- Direitos das partes:
+  - Direito de defesa.  
+  - Apresentação de provas e argumentos.  
+  - Possibilidade de recurso.  
+- Garantia de imparcialidade dos painéis e do Órgão de Apelação.  
+
+## Adoção automática dos relatórios
+
+- Relatórios de painéis e do Órgão de Apelação são adotados **salvo consenso negativo**.  
+- Evita bloqueios políticos.  
+- Representa uma das principais inovações em relação ao GATT.  
+
+## Proibição de medidas unilaterais
+
+- Os membros não podem adotar sanções comerciais fora do sistema da OMC.  
+- Garantia de multilateralismo:  
+  - Apenas o DSB pode autorizar retaliações.  
+  - Evita escaladas de conflitos.  
+
+## Participação de terceiros
+
+- Membros que não são parte direta no litígio podem participar como **terceiros interessados**.  
+- Podem apresentar argumentos escritos e orais.  
+- Garante maior transparência e defesa de interesses indiretos.  
+
+## Transparência e publicidade
+
+- Relatórios de painéis e do Órgão de Apelação são publicados e acessíveis.  
+- Algumas audiências podem ser abertas ao público.  
+- Aumenta a legitimidade do sistema perante a comunidade internacional.  
+
+## Princípio da proporcionalidade na retaliação
+
+- Se não houver cumprimento da decisão, o país reclamante pode retaliar.  
+- A retaliação deve ser:
+  - **Equivalente** ao dano causado.  
+  - Autorizada pelo DSB.  
+- Exemplo: aumento de tarifas ou suspensão de concessões.  
+
+## Prazos razoáveis e celeridade
+
+- O DSU estabelece prazos-alvo para cada etapa.  
+- Objetivo: resolver disputas em até 15 meses.  
+- Na prática: atrasos são frequentes, mas os prazos funcionam como referência para pressionar avanços.  
+
+
+## Uso prático, estatísticas e desafios
+
+- Desde 1995, o sistema de disputas da OMC tem sido amplamente utilizado.  
+- Ele representa uma das áreas mais ativas do direito internacional econômico.  
+- Nesta parte, veremos:
+  - O volume de casos.  
+  - A participação dos países.  
+  - Taxas de cumprimento.  
+  - Principais desafios e críticas.  
+
+## Volume de casos
+
+- Mais de **640 disputas** registradas desde 1995.  
+- O sistema cobre áreas como:
+  - Tarifas.  
+  - Subsídios.  
+  - Agricultura.  
+  - Propriedade intelectual.  
+  - Comércio de serviços.  
+- Muitos casos envolvem as maiores economias, mas países em desenvolvimento também recorrem ao sistema.  
+
+## Principais usuários
+
+- **Estados Unidos** e **União Europeia** são os maiores litigantes (reclamantes e reclamados).  
+- Países em desenvolvimento ativos:
+  - Brasil (ex.: disputa sobre subsídios ao algodão contra os EUA).  
+  - Índia.  
+  - México.  
+- Isso mostra que o sistema não é exclusivo das grandes potências.  
+
+## Taxas de cumprimento
+
+- A maioria dos países ajusta suas medidas após condenação.  
+- Casos de não cumprimento levam a:
+  - Arbitragem sobre conformidade.  
+  - Autorização de retaliação.  
+- Exemplo: Brasil x EUA (algodão) – resultou em autorização de retaliações comerciais.  
+
+## Prazos na prática
+
+- Embora o DSU preveja cerca de 15 meses, os casos geralmente duram mais.  
+- Motivos:  
+  - Complexidade técnica.  
+  - Atrasos no Órgão de Apelação.  
+  - Negociações paralelas.  
+
+## Principais desafios
+
+- **Crise do Órgão de Apelação**: paralisado desde 2019 pela recusa dos EUA em nomear novos membros.  
+- **Assimetrias de recursos**: países pobres têm mais dificuldade em litigar (apesar do ACWL).  
+- **Atrasos**: decisões demoram anos, prejudicando a efetividade.  
+- **Execução imperfeita**: em alguns casos, países preferem negociar compensações em vez de cumprir plenamente.  
+
+## Críticas acadêmicas
+
+- “Juridificação excessiva”: o sistema é visto por alguns como muito judicializado, afastando soluções diplomáticas.  
+- “Desbalanceamento”: países mais poderosos ainda exercem influência informal.  
+- “Foco limitado”: dificuldades em lidar com novas questões, como meio ambiente e comércio digital.  
+
+## Perspectivas futuras
+
+- Reformas são debatidas para:  
+  - Revitalizar o Órgão de Apelação.  
+  - Reduzir custos e acelerar procedimentos.  
+  - Ampliar participação de países em desenvolvimento.  
+  - Incorporar novos temas (digital, clima, sustentabilidade).  
+
+
+
+## Reformas, adaptações e perspectivas futuras
+
+- O sistema de solução de controvérsias da OMC enfrenta atualmente uma **crise institucional**.  
+- Apesar de ser o mais avançado do direito internacional econômico, ele precisa de reformas para continuar relevante.  
+- Nesta parte, veremos:
+  - As causas da crise.  
+  - Propostas de reforma.  
+  - Caminhos futuros.  
+
+## A crise do Órgão de Apelação
+
+- Desde 2019, o Órgão de Apelação está paralisado.  
+- Causa principal: bloqueio dos EUA à nomeação de novos membros.  
+- Consequências:  
+  - Disputas “presas” em apelações (sem decisão final).  
+  - Maior recurso a soluções bilaterais ou regionais.  
+  - Perda de confiança no sistema multilateral.  
+
+## Propostas de reforma
+
+- **Reforma institucional do Órgão de Apelação**:  
+  - Limitação do tempo de julgamento.  
+  - Maior transparência das decisões.  
+  - Revisão do mandato dos membros.  
+- **Mecanismos alternativos**:  
+  - Arbitragem ad hoc para apelações (MPIA – Multi-Party Interim Appeal Arbitration).  
+  - Uso de mediação ou bons ofícios em etapas iniciais.  
+
+## Adaptação para novos temas
+
+- Comércio digital e e-commerce.  
+- Mudança climática e medidas ambientais.  
+- Subsídios industriais complexos (ex.: tecnologia verde).  
+- Regras sobre cadeias globais de valor.  
+- Necessidade de harmonizar com acordos regionais e plurilaterais.  
+
+## Apoio a países em desenvolvimento
+
+- Fortalecimento do **ACWL (Advisory Centre on WTO Law)**.  
+- Redução de custos de litígio.  
+- Mais capacitação técnica e jurídica.  
+- Garantias contra abusos de poder econômico por países mais fortes.  
+
+## Perspectivas futuras
+
+- Três cenários possíveis:  
+  1. **Reforma ampla**: restauração do Órgão de Apelação e fortalecimento do DSU.  
+  2. **Reforma parcial**: manutenção do sistema, mas com arranjos ad hoc.  
+  3. **Fragmentação**: maior recurso a soluções bilaterais, regionais ou arbitragens fora da OMC.  
+- O futuro depende da **vontade política dos membros**, em especial dos EUA, UE, China e países emergentes.  
+
+
+
+- **Handbook on the WTO Dispute Settlement System** – guia prático publicado pelo Secretariado da OMC.  
+- **Relatórios de Disputa da OMC** – jurisprudência consolidada em relatórios de painéis e do Órgão de Apelação.  
+- **Estudos acadêmicos** que interpretam e analisam a evolução histórica do sistema.  
+
+## Bibliografia essencial
+
+- WTO. *Understanding the WTO: Settling Disputes*. Disponível em: [wto.org](https://www.wto.org/english/tratop_e/dispu_e/dispu_e.htm).  
+- WTO. *A Handbook on the WTO Dispute Settlement System*. Cambridge University Press, 2004.  
+- Jackson, J.H. *The World Trading System: Law and Policy of International Economic Relations*. MIT Press, 1997.  
+- Petersmann, E.-U. *The GATT/WTO Dispute Settlement System: International Law, International Organizations and Dispute Settlement*. Kluwer, 1997.  
+- Hudec, R.E. *Enforcing International Trade Law: The Evolution of the Modern GATT Legal System*. Butterworth, 1993.  

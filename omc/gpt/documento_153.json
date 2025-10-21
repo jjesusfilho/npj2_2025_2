@@ -1,0 +1,8 @@
+{
+  "resumo": "Documento da OMC datado de 19 de fevereiro de 1997 intitulado 'Ireland - Customs Classification of Certain Computer Equipment'; trata de um pedido de consultas apresentado pelos Estados Unidos contra a Irlanda, sob as regras DSU. Alegação: desde junho de 1995, as autoridades aduaneiras irlandesas classificam equipamentos LAN de modo que se aplicam tarifas mais altas (7,5%) do que as previstas nos EC Schedules, movendo a classificação de 8471 (EPD) para 8517 (telecomunicações). Alega violação do Artigo II do GATT 1994 e que as medidas prejudicam benefícios sob o GATT 1994 conforme o Artigo XXIII:1; reserva-se o direito de apresentar mais fatos e questões legais ao longo das consultas. O objetivo é realizar consultas mutuamente acordadas.",
+  "tipo": "Solicitação de Consultas",
+  "disputa": "sim",
+  "países": ["Estados Unidos", "Irlanda"],
+  "peticionario": "Estados Unidos",
+  "temas": "bens industriais; tarifas; acesso a mercado"
+}

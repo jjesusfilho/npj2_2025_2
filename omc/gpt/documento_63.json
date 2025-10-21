@@ -1,0 +1,21 @@
+{
+  "resumo": "Documento da OMC (WT/DS27/1) intitulado 'European Communities - Regime for the importation, sale and distribution of bananas', datado em 5 de fevereiro de 1996. Trata de pedido de consultas apresentado pelos governos de Equador, Guatemala, Honduras, México e Estados Unidos contra o regime da União Europeia para bananas (Regulation 404/93 e medidas subsequentes), alegando inconsistências com as regras da OMC (GATT 1994 e acordos correlatos) e solicitando fixação de data para consultas conforme DSU. O texto cita possíveis violações: GATT 1994 (Artigos I, II, III, X, XI e XIII), Acordo sobre Licenças de Importação (Artigos 1 e 3), Acordo sobre Agricultura, GATS (Artigos II, IV, XVI, XVII) e TRIMs (Artigos 2 e 5). O objetivo é abrir um mecanismo de consultas entre as partes envolvidas.",
+  "tipo": "pedido de consultas",
+  "disputa": "sim",
+  "países": [
+    "European Communities",
+    "Ecuador",
+    "Guatemala",
+    "Honduras",
+    "Mexico",
+    "United States"
+  ],
+  "peticionario": [
+    "Ecuador",
+    "Guatemala",
+    "Honduras",
+    "Mexico",
+    "United States"
+  ],
+  "temas": "agricultura; restrições quantitativas; têxteis; bens industriais; tarifas; acesso a mercado; salvaguardas; serviços; antidumping; subsídios; meio ambiente"
+}
