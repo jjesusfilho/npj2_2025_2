@@ -1,0 +1,372 @@
+---
+title: "Sistema de Petições Individuais da Comissão Interamericana de Direitos Humanos (CIDH)"
+subtitle: "Procedimentos, requisitos e efeitos jurídico-institucionais"
+author: "Prof. José de Jesus Filho"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    #incremental: true
+    overview: true
+    center: false
+fontsize: 18pt
+execute:
+  echo: false
+---
+
+## Objetivos da Aula
+
+- Compreender o **Sistema de Petições e Casos** perante a CIDH.
+- Dominar **requisitos de admissibilidade**, **etapas**, **solução amistosa** e **medidas cautelares**.
+- Entender **limites de competência** (incl. princípio da **não quarta instância**).
+- Aplicar o conhecimento na **redação de uma petição** (atividade final).
+
+## Roteiro da Apresentação
+
+1. Sistema Interamericano e instrumentos
+2. CIDH: mandato e funções
+3. Petição: quem pode, conteúdo e envio
+4. Competência e limites (não quarta instância)
+5. Admissibilidade e exceções
+6. Procedimento: estudo, admissibilidade, mérito, solução amistosa, medidas cautelares
+7. Efeitos e casos
+8. Desafios e boas práticas
+9. Atividade prática
+
+## 1. Sistema Interamericano de Direitos Humanos (SIDH)
+
+- Âmbito da **OEA** (Carta de 1948).
+- Órgãos: **CIDH** (Washington, D.C.) e **Corte IDH** (San José, CR).
+- **Proteção subsidiária**: atua quando meios internos são insuficientes.
+
+## 1.1 Princípios Estruturantes
+
+- **Subsidiariedade/complementaridade**.
+- **Universalidade e indivisibilidade** dos direitos.
+- **Boa-fé**, **cooperação** e **execução** das recomendações/decisões.
+
+## 1.2 Instrumentos-Chave do SIDH
+
+- **Convenção Americana sobre Direitos Humanos** (CADH, 1969).
+- **Declaração Americana** (1948).
+- **Protocolo de San Salvador** (DESC).
+- Convenções sobre **Tortura**, **Desaparecimento Forçado**, **Belém do Pará**, **Pessoas com Deficiência**, **Racismo**, **Idosos**.
+
+## 1.3 Direitos Protegidos pela Convenção Americana
+
+- Base: **Pacto de San José (1969)** — direitos **civis e políticos**.
+- Principais: **vida** (4), **integridade** (5), **não escravidão** (6), **liberdade pessoal** (7),
+**garantias judiciais** (8), **legalidade** (9), **honra/dignidade** (11), **consciência/religião** (12),
+**expressão** (13), **reunião** (15), **associação** (16), **família** (17), **nome** (19), **nacionalidade** (20),
+**propriedade** (21), **circulação** (22), **direitos políticos** (23), **igualdade** (24), **proteção judicial** (25).
+
+## 1.4 Direitos Econômicos, Sociais e Culturais
+
+- **Protocolo de San Salvador (1988)**: **trabalho**, **saúde**, **educação**, **seguridade social**,
+**família/infância/idosos**, **meio ambiente sadio**, **cultura**.
+- Lógica de **realização progressiva** e **não-retrocesso**.
+
+## 1.5 Outros Tratados Interamericanos
+
+- **Tortura** (1985) • **Desaparecimento Forçado** (1994) • **Belém do Pará** (1994) •
+**Pessoas com Deficiência** (1999) • **Racismo** (2013) • **Direitos dos Idosos** (2015).
+
+## 1.6 Observações Gerais
+
+- A **Declaração Americana** é parâmetro para Estados não partes da CADH.
+- Proteção alcança **atos** e **omissões** estatais.
+- Interdependência entre **civis-políticos** e **econômico-sociais**.
+
+## 2. Comissão Interamericana de Direitos Humanos (CIDH)
+
+- Criada em **1959**; órgão **autônomo** da OEA.
+- **7 membros independentes**, mandatos de **4 anos** (1 reeleição).
+- Funções: **petições**, **medidas cautelares**, **relatórios**, **visitas**, **encaminhamento à Corte**.
+
+## 2.1 Natureza da Atuação
+
+- Não é **instância recursal**; foca em **compatibilidade** com a CADH.
+- Atuação **subsidiária** e **não substitutiva** da jurisdição interna.
+
+## 3. Quem Pode Peticionar
+
+- **Qualquer pessoa**, grupo ou **ONG** reconhecida.
+- Não exige advogado (recomendável).
+- Possível **peticionar por terceiros** (com justificativa).
+
+## 3.1 Conteúdo Mínimo da Petição
+
+- Identificação do peticionário e da(s) vítima(s).
+- Fatos **claros e cronológicos**.
+- **Direitos violados** (CADH/Declaração).
+- **Recursos internos** utilizados / decisões.
+- **Provas** documentais.
+
+## 3.1.A Estrutura Recomendada da Petição
+
+1. **Identificação** do peticionário e vítimas.
+2. **Estado denunciado**.
+3. **Fatos e cronologia**.
+4. **Direitos violados** e normas aplicáveis.
+5. **Atuação interna** (recursos/decisões).
+6. **Provas anexas**.
+7. **Pedidos** (reparações/medidas).
+
+## 3.1.B Anexos Recomendados
+
+- **Decisões** judiciais/administrativas.
+- **Identificação** e **procurações** (se houver).
+- **Provas** médicas/periciais/fotos.
+- **Declarações/testemunhos**, **notícias**.
+- **Comprovantes** de comunicação interna.
+
+## 3.1.C Boas Práticas de Redação
+
+- **Objetiva** e **cronológica**.
+- **Índice numerado** de anexos.
+- Destacar **provas essenciais**.
+- **Contato atualizado** do peticionário.
+
+## 3.1.D Envio e Idiomas Aceitos
+
+- **Formulário eletrônico** no site da CIDH; ou **correio**.
+- Idiomas: **pt/es/en/fr**.
+- **Sem custas**; advogado **não obrigatório**.
+
+## 3.1.E Dicas Técnicas
+
+- Checar **compatibilidade** dos fatos com direitos protegidos.
+- Verificar **decisão definitiva** ou **exceção ao exaurimento**.
+- Provas **legíveis/completas**.
+- Evitar **duplicidade internacional**.
+
+## 4. Contra Quem se Pode Peticionar
+
+- Apenas contra **Estados Membros**; idealmente que **ratificaram a CADH**.
+- **Brasil**: CADH (1992) e jurisdição da **Corte IDH** (1998).
+
+## 4.1 Limites de Competência Material
+
+- CIDH não julga **indivíduos/empresas**.
+- Não substitui **juízos de fato/direito** internos.
+- Examina **violação de direitos humanos**.
+
+## 4.2 A CIDH e o Princípio da “Não Quarta Instância”
+
+- Não atua como **tribunal de apelação** de decisões internas.
+- Só verifica **violação à CADH** (p.ex., **devido processo**, **recurso efetivo**, **demora irrazoável**).
+- Jurisprudência: **Herrera Ulloa vs. Costa Rica (2004)**; **Apitz Barbera vs. Venezuela (2008)**.
+
+## 5. Requisitos de Admissibilidade (visão geral)
+
+1. **Exaurimento** dos recursos internos (art. 46 CADH).  
+2. **Prazo de 6 meses** (regra geral).  
+3. **Não duplicidade internacional**.  
+4. **Legitimidade** e **identificação** das vítimas/Estado.  
+5. **Competências** ratione personae, loci, temporis e materiae.
+
+## 5.1 Exaurimento: Regra e Racionalidade
+
+- Sistema **subsidiário**: prioriza instâncias nacionais.
+- Recursos **adequados e eficazes**; não exige manejo **temerário**.
+
+## 5.2 Exceções ao Exaurimento
+
+- **Inexistência** de recursos eficazes.
+- **Demora injustificada**.
+- **Impedimentos de acesso** (ameaça, violência, custos, ausência de assistência).
+- Nesses casos, substituição do prazo de 6 meses por **prazo razoável**.
+
+## 5.3 Prazo de 6 Meses e Prazo Razoável
+
+- Regra: **6 meses** da decisão final interna.
+- Exceções: **prazo razoável** (complexidade, conduta das partes, impacto).
+
+## 5.4 Não Duplicidade Internacional
+
+- Vedada **litigância paralela** em órgãos internacionais.
+- Exceção: procedimento externo **encerrado sem mérito**.
+
+## 6. Etapas do Procedimento (visão geral)
+
+1. **Under Study (Em Estudo)**
+2. **Admissibilidade**
+3. **Mérito**
+4. **Solução Amistosa**
+5. **Relatório de Mérito**
+6. **Eventual Remessa à Corte IDH**
+7. **Monitoramento de Cumprimento**
+
+## 6.A Conceitos-Chave (p. 24 do folheto)
+
+- **Under Study**: avaliação preliminar (art. 28 Regulamento); decide-se abrir ou não processamento.  
+- **Admissibility**: requisitos dos arts. 46–47 CADH; arts. 30–36 do Regulamento; relatório de (in)admissibilidade.  
+- **Merits**: análise de fundo; arts. 48–50 CADH; arts. 37–39, 43–44 do Regulamento; relatório de mérito.  
+- **Petition Not Opened**: ausência de requisitos (arts. 26 e segs. do Regulamento).  
+- **Archived**: razões não existem/cessaram ou falta info. (art. 48.1.b CADH; art. 42.1 Regulamento).  
+- **Follow-up of Recommendations** / **Friendly Settlement**: monitoramento (art. 48 CADH).
+
+## 6.1 Under Study (Em Estudo)
+
+- **Triagem**: requisitos mínimos; pode demorar pelo volume.
+- Notificação ao peticionário sobre **processar ou não**.
+
+## 6.2 Admissibilidade
+
+- Notificação ao **Estado**; intercâmbio de informações.
+- Verifica **requisitos formais e materiais**.
+- Resulta em **relatório** (admissível/inadmissível).
+
+## 6.3 Mérito
+
+- Análise **de fundo**; audiências públicas; provas.
+- **Relatório preliminar** com conclusões/recomendações.
+
+## 6.4 Solução Amistosa — Conceito e Finalidade
+
+- **Diálogo** para acordos que **reparem** e **previnam** novas violações.
+- Base: **art. 48(1)(f) CADH**; **art. 40 Regulamento**; **Relatório do art. 49**.
+
+## 6.4.A Natureza e Procedimento
+
+- **Voluntário, informal e flexível**; consentimento mútuo.
+- Pode iniciar em **qualquer etapa**; CIDH como **facilitadora**.
+- Etapas: interesse → agenda → negociação → minuta → **Relatório art. 49** → **monitoramento**.
+
+## 6.4.B Conteúdo Típico dos Acordos
+
+- **Reparações individuais** (indenização, saúde/psicossocial, reconhecimento).
+- **Satisfação** (atos públicos, memória).
+- **Não repetição** (reformas legais, protocolos, capacitação).
+- **Medidas estruturais** (políticas, orçamento, dados).
+
+## 6.4.C Princípios e Boas Práticas
+
+- **Centralidade das vítimas**; abordagem **interseccional**.
+- **Transparência** e **confidencialidade** equilibradas.
+- Cláusulas **SMART**; matriz de **responsável–prazo–indicador**.
+- **Governança** de implementação e verificação.
+
+## 6.4.D Vantagens e Limitações
+
+- Vantagens: **celeridade**, protagonismo das partes, reformas **estruturais**.
+- Limitações: **inadimplemento** estatal, necessidade de **indicadores** e **cronogramas**.
+
+## 6.5 Relatório de Mérito e Alternativas
+
+- Se Estado **não cumpre** recomendações: publicação e/ou **envio à Corte**, se cabível.
+
+## 6.6 Remessa à Corte Interamericana
+
+- **CIDH é parte** demandante.
+- Requisitos: jurisdição reconhecida + gravidade/relevância.
+- Corte profere **sentença vinculante** com **reparações**.
+
+## 6.7 Cumprimento e Monitoramento
+
+- CIDH acompanha **recomendações**; Corte supervisiona **sentenças**.
+- Transparência: **relatórios anuais**.
+
+## 6.8 Medidas Cautelares (Precautionary Measures)
+
+- **Art. 25 do Regulamento da CIDH**; proteção **urgente** para evitar **dano irreparável**.
+- Podem ser solicitadas **a qualquer momento**, inclusive sem mérito admitido.
+
+## 6.8.1 Natureza e Finalidade
+
+- **Precautórias e humanitárias**; não decidem mérito.
+- Beneficiam **indivíduos ou grupos**; preservam **vida/integridade**.
+
+## 6.8.2 Quem Pode Solicitar e Conteúdo
+
+- Qualquer pessoa/grupo/ONG.
+- Indicar **beneficiários**, **fatos/risco**, **direitos afetados**, **medidas requeridas**, **provas**.
+
+## 6.8.3 Critérios de Avaliação
+
+- **Gravidade**, **urgência** e **dano irreparável**.
+- Estado pode ser ouvido; em urgência, decisão imediata.
+
+## 6.8.4 Decisão, Duração e Monitoramento
+
+- Estado adota **medidas específicas** e informa periodicamente.
+- CIDH pode **ampliar/modificar/levantar**; mantém-se enquanto persistir o risco.
+- Casos graves: **medidas provisórias** na Corte (art. 63(2) CADH).
+
+## 6.8.5 Diferenças (CIDH × Corte)
+
+| Aspecto | Medidas Cautelares (CIDH) | Medidas Provisórias (Corte IDH) |
+|---|---|---|
+| Órgão | Comissão | Corte |
+| Fundamento | Art. 25 Regulamento | Art. 63(2) CADH |
+| Momento | Qualquer etapa | Em caso/cautelar judicial |
+| Caráter | Administrativo/protetivo | Judicial/vinculante |
+| Objetivo | Evitar dano irreparável | Assegurar eficácia da decisão |
+
+## 7. Efeitos Jurídicos
+
+- **Relatórios da CIDH**: natureza **recomendada**, alta autoridade persuasiva.
+- **Sentenças da Corte**: **vinculantes**; exigem **reparações** e **não repetição**.
+
+## 7.1 Tipos de Reparações (Corte IDH)
+
+- **Indenização**, **reabilitação**, **satisfação**, **garantias de não repetição**.
+
+## 7.2 Efeitos Internos no Brasil
+
+- **Controle de convencionalidade**; ajustes normativos/políticas.
+- Reabertura de investigações; responsabilização estatal.
+
+## 8. Casos Relevantes (exemplos)
+
+- **Gomes Lund (Guerrilha do Araguaia) vs. Brasil (2010)** — desaparecimentos forçados.
+- **Favela Nova Brasília vs. Brasil (2017)** — execuções e violência sexual.
+- **Velásquez Rodríguez vs. Honduras (1988)** — paradigma de responsabilidade.
+- **Campo Algodonero vs. México (2009)** — violência de gênero.
+
+## 9. Desafios do Sistema
+
+- **Demora processual** e **capacidade institucional**.
+- **Cumprimento parcial/tardio**; politização.
+- **Baixa difusão** entre operadores do direito.
+
+## 9.1 Tendências e Oportunidades
+
+- Fortalecimento de **cautelares** e proteção a **defensores**.
+- **Plataformas digitais** e integração com **ONU**.
+- Temas emergentes: **IA e direitos humanos**, discriminação algorítmica.
+
+## 9.2 Boas Práticas (Checklist)
+
+- [ ] Linha do tempo **clara** e **documentada**.
+- [ ] Identificação do **ato estatal** e **direito violado**.
+- [ ] Provas **legíveis/relevantes** (índice de anexos).
+- [ ] Tese de **exaurimento** ou **exceção** bem fundamentada.
+- [ ] **Pedidos concretos** e exequíveis.
+
+## Encerramento
+
+- O sistema interamericano oferece **proteção subsidiária** essencial.
+- Êxito depende de **técnica processual** e **documentação robusta**.
+- **Respeito** à soberania judicial interna → **não quarta instância**.
+
+## Atividade Prática – Petição à CIDH
+
+- **Objetivo**: aplicar conteúdo em **petição simulada**.
+- **Tarefa**: cada grupo identifica um **caso potencial** no contexto brasileiro.
+
+## Orientações para o Trabalho
+
+1. Caso **real ou hipotético** com possível violação a direito protegido.  
+2. Indicar **Estado responsável** e **direito violado**.  
+3. Demonstrar **exaurimento** (ou **exceção**).  
+4. Apresentar **provas** e **pedidos** (reparação, investigação, cautelares).
+
+## Estrutura Recomendada da Petição (atividade)
+
+1. **Identificação**; 2. **Fatos**; 3. **Direitos violados**; 4. **Atuação interna**; 5. **Provas**; 6. **Pedidos**.
+
+## Critérios de Avaliação e Entrega
+
+- **Clareza jurídica**, **aderência** ao Regulamento, **fundamentação CADH**, **organização** e **viabilidade**.
+- **2–3 páginas**; apresentação **5 min** por grupo; data a definir.
